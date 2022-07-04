@@ -12,7 +12,7 @@ def CheckLeap(Year):
 # Taking an input year from user  
 Year = int(input("Enter the Thomas number: "))  
 # Printing result  
-
+#Eklendi
 CheckLeap(Year) 
 
 # Celsius u Fahrenat'e çevirme.
