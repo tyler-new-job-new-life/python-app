@@ -20,5 +20,12 @@ a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
 print(b)
+
 print("Hello Cohort-12")
 print("hello aloha")
+print("Hello Cohort-12
+
+x = 6
+
+while x < 15:
+	print(x
