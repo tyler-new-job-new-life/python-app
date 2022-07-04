@@ -1,4 +1,5 @@
 # Default function to implement conditions to check leap year  
+print("Hello Cohort-12 :D")
 def CheckLeap(Year):  
   # Checking if the given year is leap year  
   if((Year % 400 == 0) or  # sorgu yapıldı
