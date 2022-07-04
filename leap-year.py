@@ -6,6 +6,10 @@ def CheckLeap(Year):
      (Year % 4 == 0)):   
     print("Given Year is a leap Year Cooper");  
 
+    print(b)
+    print('Hello Cohort-12')
+    print('Merhaba')
+
   # Else it is not a leap year  
   else:  
     print ("Given Year is not a leap Year Cooper")  
