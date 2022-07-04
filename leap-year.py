@@ -4,7 +4,7 @@ def CheckLeap(Year):
   if((Year % 400 == 0) or  # sorgu yapıldı
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
-    print("Given Year is a leap Year Cooper");  
+    print("Given Year is a leap Year huhuu");  
 
   # Else it is not a leap year  
   else:  
