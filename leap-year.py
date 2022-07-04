@@ -21,3 +21,5 @@ b = a*9/5+32
 
 print(b)
 print("Hello Cohort-12")
+print("ilk fork çalışması ve pull request")
+değişiklik
