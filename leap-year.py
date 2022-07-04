@@ -1,11 +1,14 @@
 # Default function to implement conditions to check leap year  
+from curses import A_ALTCHARSET
+
+
 def CheckLeap(Year):  
   # Checking if the given year is leap year  
   if((Year % 400 == 0) or  # sorgu yapıldı
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
     print("Given Year is a leap Year huhuu");  
-
+A_ALTCHARSET
   # Else it is not a leap year  
   else:  
     print ("Given Year is not a leap Year Cooper")  
