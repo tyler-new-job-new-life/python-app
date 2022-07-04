@@ -11,7 +11,7 @@ def CheckLeap(Year):
 A_ALTCHARSET
   # Else it is not a leap year  
   else:  
-    print ("Given Year is not a leap Year Cooper")  
+    print ("Given Year is not adasdasa leap Year Cooper")  
 # Taking an input year from user  
 Year = int(input("Enter the Thomas number: "))  
 # Printing result  
