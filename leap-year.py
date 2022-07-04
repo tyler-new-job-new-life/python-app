@@ -19,17 +19,3 @@ CheckLeap(Year)
 a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
-print(b)
-
-print("Hello Cohort-12")
-
-print("Clarusway")
-print ("merhaba")
-
-print("Hello Cohort-12)
-
-
-while x < 15:
-	print(x)
-	x += 1
-
