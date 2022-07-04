@@ -16,7 +16,7 @@ A_ALTCHARSET
 Year = int(input("Enter the Thomas number: "))  
 # Printing result  
 
-CheckLeap(Year) 
+CheckLeap(Year) asdad
 
 # Celsius u Fahrenat'e çevirme.
 a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
