@@ -1,23 +1,22 @@
+
 # Default function to implement conditions to check leap year  
-def CheckLeap(Year):  
+def CheckLeap(year) :  
   # Checking if the given year is leap year  
-  if((Year % 400 == 0) or  # sorgu yapıldı
-     (Year % 100 != 0) and  
-     (Year % 4 == 0)):   
-    print("Given Year is a leap Year Cooper");  
+  if((year % 400 == 0) or (year % 100 != 0) and (year % 4 == 0)) :   
+    print(f"{year} is a leap Year.")  
 
   # Else it is not a leap year  
-  else:  
-    print ("Given Year is not a leap Year Cooper")  
+  else :  
+    print (f"{year} is not a leap Year")  
 # Taking an input year from user  
-Year = int(input("Enter the Thomas number: "))  
-# Printing result  
+year = int(input("Enter a year : "))  
 
-CheckLeap(Year) 
+# Printing result  
+CheckLeap(year) 
 
 # Celsius u Fahrenat'e çevirme.
-a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
-b = a*9/5+32
+celcius = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
+f = celcius * 9 / 5 + 32
+print(f)
 
-print(b)
-print("Hello Cohort-12")
+print("\nHello Cohort-12")
