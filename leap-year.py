@@ -21,3 +21,11 @@ b = a*9/5+32
 
 print(b)
 print("Hello Cohort-12")
+#Kullanıcıdan parola isteyelim. Girilen parolada Türkçe karakter var ise ekrana "Türkçe karakter kullanmayınız!" yazsın. Türkçe karakter yok ise ekrana "Parolanız kabul edildi!" yazsın. Haydi çayınızı çerezinizi alın ve davranın.
+
+pass_word = set(input('Please enter a password: '))
+
+if 'ç' in pass_word or 'ğ' in pass_word or 'ö'in pass_word or 'ş' in pass_word or 'ü' in pass_word or 'ı' in pass_word:
+  print('Please do NOT Use Turkish Character')
+else:
+  print('Valid Password')
