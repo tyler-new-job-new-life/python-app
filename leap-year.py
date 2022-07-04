@@ -21,4 +21,8 @@ b = a*9/5+32
 
 print(b)
 print("Hello Cohort-12")
+
 True or False or True
+
+print ("merhaba")
+
