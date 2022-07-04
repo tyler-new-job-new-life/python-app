@@ -19,6 +19,9 @@ CheckLeap(Year)
 a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
+<<<<<<< HEAD
 print(b)
 print("Hello Cohort-12")
 print('merhaba')
+=======
+>>>>>>> 45a940f870490152cd74c80a1e97455664cfdad2
