@@ -24,5 +24,10 @@ print("Hello Cohort-12")
 
 print("merhaba")
 
+print("Hello Cohort-12
 
+x = 6
 
+while x < 15:
+	print(x)
+	x += 1
