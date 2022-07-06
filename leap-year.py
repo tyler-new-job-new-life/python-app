@@ -42,5 +42,7 @@ while x < 15:
 print(b)
 print("Hello Cohort-12")
 
-print("Hello from Turkey")
+print("İyi dersler!")
+print("Saat 21.20")
+#test
 
