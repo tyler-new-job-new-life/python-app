@@ -1,3 +1,4 @@
+
 # Default function to implement conditions to check leap year  
 def CheckLeap(Year):  
   # Checking if the given year is leap year  
