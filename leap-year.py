@@ -29,5 +29,5 @@ print("\nHello Cohort-12")
 print(b)
 print("Hello Cohort-12")
 
-print("Merhabalar ZABRAHAM' dan")
+print('Hello Clarusway')
 
