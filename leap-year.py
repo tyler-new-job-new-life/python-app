@@ -18,5 +18,3 @@ CheckLeap(Year)
 
 print(b)
 print("Hello Cohort-12")
-print("ilk fork çalışması ve pull request")
-değişiklik
