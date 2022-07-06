@@ -14,9 +14,12 @@ year = int(input("Enter a year : "))
 # Printing result  
 CheckLeap(year) 
 
+
 # Celsius u Fahrenat'e çevirme.
 celcius = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 f = celcius * 9 / 5 + 32
 print(f)
 
+
 print("\nHello Cohort-12")
+
