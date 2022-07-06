@@ -69,4 +69,22 @@ print("Hello Cohort-12")
 
 print("MErhabalar")
 
-print("How many leap years have you experienced? Think about it.")
+
+print(b)
+
+print("Hello Cohort-12")
+
+print("Buraya bakarlar")
+
+print ("merhaba")
+
+print("Hello Cohort-12
+
+x = 6
+
+while x < 15:
+	print(x)
+	x += 1
+
+
+
