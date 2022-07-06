@@ -25,6 +25,8 @@ b = a*9/5+32
 print(b)
 print("Hello Cohort-12")
 
+=======
+
 print("merhaba")
 
 
@@ -55,32 +57,5 @@ while x < 15:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("All rights are reserved")
+
