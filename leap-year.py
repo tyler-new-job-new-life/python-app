@@ -63,9 +63,9 @@ print("All rights are reserved")
 print(b)
 print("Hello Cohort-12")
 
-<<<<<<< HEAD
+
 print(b)
 print("Hello Cohort-12")
-print('merhaba')
-=======
->>>>>>> 45a940f870490152cd74c80a1e97455664cfdad2
+
+print("MErhabalar")
+
