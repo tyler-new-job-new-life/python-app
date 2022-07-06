@@ -47,3 +47,22 @@ print("Saat 21.20")
 print(b)
 print("Hello Cohort-12")
 
+
+print(b)
+
+print("Hello Cohort-12")
+
+True or False or True
+
+print ("merhaba")
+
+print("Hello Cohort-12
+
+x = 6
+
+while x < 15:
+	print(x)
+
+
+
+
