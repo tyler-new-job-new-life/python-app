@@ -1,3 +1,4 @@
+
 # Default function to implement conditions to check leap year  
 from curses import A_ALTCHARSET
 
@@ -15,12 +16,8 @@ A_ALTCHARSET
 # Taking an input year from user  
 Year = int(input("Enter the Thomas number: "))  
 # Printing result  
+CheckLeap(Year)  
 
-CheckLeap(Year) asdad
-
-# Celsius u Fahrenat'e çevirme.
-a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
-b = a*9/5+32
 
 print(b)
 print("Hello Cohort-12")
