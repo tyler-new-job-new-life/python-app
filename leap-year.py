@@ -26,6 +26,12 @@ b = a*9/5+32
 print(b)
 
 
+print('hello world')
+
+
+print(b)
+
+
 print("Hello Cohort-12")
 print("hello aloha")
 print("Hello Cohort-12
@@ -36,5 +42,6 @@ x = 6
 while x < 15:
 
 	print(x)
+
 
 
