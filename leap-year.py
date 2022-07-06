@@ -18,16 +18,11 @@ CheckLeap(Year)
 
 
 # Celsius u Fahrenat'e çevirme.
-celcius = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
-f = celcius * 9 / 5 + 32
-print(f)
 
-
-print("\nHello Cohort-12")
-
-
+a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
+b = a*9/5+32
 print(b)
 print("Hello Cohort-12")
+print("merhaba bu ilk forkum ve pushum")
 
-print('Hello Clarusway')
 
