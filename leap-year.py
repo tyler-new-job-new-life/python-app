@@ -44,6 +44,6 @@ while x < 15:
 
 print(b)
 print("Hello Cohort-12")
-print("Helloooo")
 
+print("Hello from Turkey")
 
