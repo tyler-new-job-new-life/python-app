@@ -46,3 +46,6 @@ print("İyi dersler!")
 print("Saat 21.20")
 #test
 
+# Print output.
+print(b)
+print("Hello Cohort-12")
