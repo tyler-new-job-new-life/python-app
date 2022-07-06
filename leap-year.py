@@ -98,10 +98,11 @@ print(b)
 
 print("Hello Cohort-12")
 print("ekle")
-=======
+
 print("Hello Cohort-12
 
 x = 6
+
 
 while x < 15:
 	print(x)
