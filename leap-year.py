@@ -1,7 +1,5 @@
 
-# Default function to implement conditions to check leap year  
-from curses import A_ALTCHARSET
-
+#Değişiklik yaptım. Default function to implement conditions to check leap year  
 
 def CheckLeap(Year):  
 
