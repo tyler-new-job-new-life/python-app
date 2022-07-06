@@ -1,3 +1,4 @@
+
 # Default function to implement conditions to check leap year  
 def CheckLeap(Year):  
   # Checking if the given year is leap year  
@@ -13,4 +14,5 @@ def CheckLeap(Year):
 Year = int(input("Enter the Thomas number: "))  
 # Printing result  
 CheckLeap(Year)  
-##FOREVER
+
+
