@@ -19,7 +19,20 @@ Year = int(input("Enter the Thomas number: "))
 CheckLeap(Year)  
 
 
-print(b)
+
 print("Hello Cohort-12")
-print("merhaba")
+
+print("selamlar")
+
+print ("merhaba")
+
+print("Hello Cohort-12
+
+x = 6
+
+while x < 15:
+	print(x)
+	x += 1
+
+
 
