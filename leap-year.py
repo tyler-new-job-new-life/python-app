@@ -38,3 +38,49 @@ while x < 15:
 
 print("saık erdemmir")
 
+
+print(b)
+
+
+
+
+x = 6
+
+while x < 15:
+	print(x)
+	x += 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+print("All rights are reserved")
