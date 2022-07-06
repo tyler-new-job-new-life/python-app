@@ -4,17 +4,14 @@ from curses import A_ALTCHARSET
 
 
 def CheckLeap(Year):  
-  # Checking if the given year is leap year  
+ # Checking if the given year is leap year  
   if((Year % 400 == 0) or  # sorgu yapıldı
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
 
     print("Given Year is a leap Year Cooper");  
 
-    print(b)
-    print('Hello Cohort-12')
-    print('Merhaba')
-
+deneme
 
   # Else it is not a leap year  
   else:  
