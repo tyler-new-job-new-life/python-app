@@ -1,0 +1,188 @@
+    1  git --version
+    2  ls -l
+    3  cd user
+    4  cd music
+    5  ls
+    6  cd ..
+    7  cd..
+    8  ls
+    9  cd ebudava
+   10  dir
+   11  ls -l
+   12  cd ..
+   13  cd ebubekir
+   14  cd ~
+   15  ls
+   16  cd desktop
+   17  cd ebubekir
+   18  cd ..
+   19  cd gitebu
+   20  git init
+   21  ls -al
+   22  mkdir pasta
+   23  ls -l
+   24  mkdir drink
+   25  cd pasta
+   26  git init
+   27  cd ..
+   28  cd drink
+   29  git init
+   30  cd ..
+   31  rm -rf .git
+   32  cd drink
+   33  cd ,,
+   34  cd ..
+   35  cd pasta
+   36  cd ..
+   37  cd drink\
+   38  cd drink
+   39  touch limonata.txt
+   40  mv limonata.txt lim.txt
+   41  ls
+   42  ls -al
+   43  git status
+   44  git add lim.txt 
+   45  git status
+   46  touch orange.txt
+   47  ls
+   48  git status
+   49  git add orange.txt \
+   50  git add orange.txt 
+   51  git status
+   52  git rm --cached orange.txt 
+   53  git status
+   54  git add orange.txt 
+   55  git status
+   56  git commit -m "pasta and drink folder"
+   57  git global user.name
+   58  git log
+   59  git status
+   60  git add .
+   61  git status
+   62  git commit
+   63  git status
+   64  git log
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "content chanced"
+   69  git log
+   70  git checkout ec6ecc
+   71  git log
+   72  git checkout ee16
+   73  git log
+   74  git checkout master
+   75  git log
+   76  tree
+   77  sudo apt install tree
+   78  git help pull
+   79  git status
+   80  pwd
+   81  cd desktop
+   82  cd gitebu
+   83  git status
+   84  cd drink
+   85  git status
+   86  cd ..
+   87  ls
+   88  cd pasta
+   89  git status
+   90  ls
+   91  cd ..
+   92  cd drink
+   93  ls -al
+   94  nano lim.txt 
+   95  git clone https://github.com/ebagovtere/my-demo-repo.git
+   96  ls
+   97  cd my-demo-repo
+   98  ls -al
+   99  git branch
+  100  git branch demobranch
+  101  git checkout demobranch 
+  102  git branch
+  103  vim hello.py
+  104  cat hello.py 
+  105  git add .
+  106  git add . 
+  107  git commit - m "New Python file added"
+  108  git commit -m "New Python file added"
+  109  git log
+  110  git push origin demobranch
+  111  git checkout master
+  112  git checkout master
+  113  git checkout main
+  114  git pull origin master
+  115  git checkout master
+  116  git pull origin main
+  117  git clone https://github.com/ebagovtere/devops.git
+  118  cd desktop
+  119  cd gitebu
+  120  ls
+  121  pip --version
+  122  pip --version
+  123  pip install numpay
+  124  ls
+  125  cd desktop
+  126  ls
+  127  cd git-lesson
+  128  ls
+  129  cd try-for-fork
+  130  git bash
+  131  git branch
+  132  cd..
+  133  cd..
+  134  cd ..
+  135  cd .
+  136  cd ..
+  137  cd ~
+  138  ls
+  139  cd desktop
+  140  cd git-lesson/
+  141  git clone https://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@github.com/ebagovtere/python-app.git
+  142  cd python-app
+  143  git remote -v
+  144  ls
+  145  git branch
+  146  git checkout -b new-feature
+  147  git status
+  148  nano leap-year.py 
+  149  git status
+  150  git add .
+  151  gir commit - m leap-year.py 
+  152  gir commit - m 'entering new line'
+  153  git commit - m 'entering new line'
+  154  git commit -m 'entering new line'
+  155  git commit help
+  156  git help commit
+  157  git commit -amend 'added new line'
+  158  git commit --amend 'added new line'
+  159  git remote upstream https://github.com/ebagovtere/python-app.githttps://github.com/ebagovtere/python-app.git
+  160  git remote upstream https://github.com/ebagovtere/python-app.git
+  161  git remote upstream https://github.com/TylerCounter/python-app.git
+  162  git remote -v
+  163  git pull upstream main
+  164  git remote upstream https://github.com/TylerCounter/python-app.git
+  165  git remote add upstream https://github.com/TylerCounter/python-app.git
+  166  git pull upstream main
+  167  git remote -v
+  168  git push origin
+  169  git push --set-upstream origin new-feature
+  170  git pull upstream main
+  171  git pull upstream main
+  172  ls
+  173  vim leap-year.py 
+  174  git pull upstream main
+  175  git status
+  176  git add .
+  177  git status
+  178  git pull upstream main
+  179  git commit -m 'son'
+  180  git pull upstream main
+  181  git branch
+  182  ls -l
+  183  cat leap-year.py 
+  184  git pull upstream main
+  185  git push origin
+  186  git pull upstream main
+  187  git remote -v
+  188  history > his.txt
