@@ -1,3 +1,4 @@
+
 # Default function to implement conditions to check leap year
 def CheckLeap(Year):
     # Checking if the given year is leap year
@@ -22,3 +23,6 @@ a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
 print('merhaba')
+
+
+
