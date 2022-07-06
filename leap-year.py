@@ -28,5 +28,6 @@ print("\nHello Cohort-12")
 
 print(b)
 print("Hello Cohort-12")
-print("data güncellemesi geldi")
+
+print("Merhabalar ZABRAHAM' dan")
 
