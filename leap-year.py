@@ -83,4 +83,7 @@ print(b)
 print("Hello Cohort-123456789"
         )
 
-benim klavye arızalı
+
+print("have nice holiday")
+
+
