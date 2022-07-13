@@ -120,3 +120,5 @@ print("Life is beatiful.")
 
 print("END ITF")
 
+print("Geçmiş kurban bayramınız mübarek olsun")
+
