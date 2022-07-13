@@ -3,7 +3,7 @@ def CheckLeap(Year):
   # Checking if the given year is leap year  
   if((Year % 400 == 0) or  # sorgu yapıldı
      (Year % 100 != 0) and  
-     (Year % 4 == 0)):   
+  <F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9<F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><F9><T-F9><T-F9><T-F9>> 4 == 0)):   
     print("Given Year is a leap Year Cooper");  
 
   # Else it is not a leap year  
@@ -20,4 +20,7 @@ a = int(input('celcius değer girin :'))  # Celsius u Fahrenat'e çevirme.
 b = a*9/5+32
 
 print(b)
-print("Hello Cohort-12")
+print("Hello Cohort-123456789"
+        )
+
+benim klavye arızalı
