@@ -86,4 +86,4 @@ print("Hello Cohort-123456789"
 
 print("have nice holiday")
 
-
+print("yavaş öğreniyorum galiba")
