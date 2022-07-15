@@ -80,8 +80,21 @@ print("MErhabalar")
 
 print(b)
 
-print("Hello Cohort-123456789"
-        )
+<<<<<<< HEAD
+print("Hello Cohort-12")
+
+print("Buraya bakarlar")
+
+print ("merhaba")
+
+print("Hello Cohort-12
+
+x = 6
+
+while x < 15:
+	print(x)
+	x += 1
+print("Hahahaha")
 
 
 print("have nice holiday")
