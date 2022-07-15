@@ -99,4 +99,4 @@ print("Hahahaha")
 
 print("have nice holiday")
 
-
+print("yavaş öğreniyorum galiba")
