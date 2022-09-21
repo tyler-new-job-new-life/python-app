@@ -1,4 +1,5 @@
 # python-app
+rose çalışıyor
 
 
 
