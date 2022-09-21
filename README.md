@@ -1,5 +1,5 @@
 # python-app
-rose çalışıyor
+Rose çalışıyor. Hocam rica etsem confirm merge yapabilir misiniz ?
 
 
 
